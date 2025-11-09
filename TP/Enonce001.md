@@ -429,7 +429,7 @@ class Category
 }
 ```
 
-Créons maintenant un contrôleur chargé de gérer les cours : `src/Controller/CourseController.php`, puis ajoutons le code suivant: 
+Créons maintenant un contrôleur chargé de gérer les cours : `src/Controller/CatalogController.php`, puis ajoutons le code suivant: 
 
 ```php
 <?php
